@@ -17,7 +17,7 @@ ME，太爽了
 http://www.eclipseme.org/updates/
 这里你看2啊，您的新版本肯定能装上插件，但是插件运行就找不到class.报错。需要老版本的eclipse。
 
-4WTK(Wireless Toolkits）
+4，WTK(Wireless Toolkits）
 地址：http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javame-419430.html#sun_java_wireless_toolkit-2.5.2_01b-oth-JPR
 其实就是跑程序的虚拟机了。
 我使用的是252版本
@@ -26,11 +26,11 @@ http://www.eclipseme.org/updates/
 
 这个需要配置到eclipse里面
 
-5写代码
-6打包（很简单，如果你想直接运行，IDE就给你做了。但是编译目标我一直是指向java3的，试试别的，出错ing）
-8运行（很简单，如果你想直接运行，IDE就给你做了）
+5，写代码
+6，打包（很简单，如果你想直接运行，IDE就给你做了。但是编译目标我一直是指向java3的，试试别的，出错ing）
+8，运行（很简单，如果你想直接运行，IDE就给你做了）
 
-混淆（反正我一直木有这个步骤）
+7？混淆（反正我一直木有这个步骤）
 
 
 几个指导地址：
